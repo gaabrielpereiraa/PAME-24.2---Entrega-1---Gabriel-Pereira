@@ -134,6 +134,7 @@ input[type=password]::placeholder{
 
 .botaosubmit{
     height: 4.5vh;
+    width: 20vw;
     background-color: #f58232;
     color: white;
     font-size: 1.25rem;
@@ -144,6 +145,7 @@ input[type=password]::placeholder{
 
 .botaocodigo{
     height: 4.5vh;
+    width: 20vw;
     background-color:rgb(128, 128, 128, 0.6);
     color: white;
     font-size: 1.25rem;
