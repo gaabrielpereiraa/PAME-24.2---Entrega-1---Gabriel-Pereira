@@ -16,17 +16,17 @@ body{
     padding: 20px;
 }
 
-#texts{
+#footertexts{
     margin-left: 5vw;
     color:#706f6f;
 }
 
-#firstline{
+#footerfirstline{
     display: flex;
     text-decoration: underline;
 }
 
-#secondline{
+#footersecondline{
     display: flex;
     text-decoration: underline;
 }
